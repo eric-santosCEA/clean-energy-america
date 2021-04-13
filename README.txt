@@ -56,6 +56,7 @@ Slideshow Background:
 
 
 Credits:
+test
 
 	Demo Images:
 		Unsplash (unsplash.com)
